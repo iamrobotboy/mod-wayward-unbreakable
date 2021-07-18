@@ -1,0 +1,16 @@
+{
+	"name": "Unbreakable",
+	"description": "Makes all items unbreakable from durability use, usage from other mechanics such as stoking a fire may break the item.",
+	"version": "1.0.4",
+    "author": "Robot Boy",
+    "waywardVersion": "2.10.7-beta",
+	"unloadable": true,
+	"file": "out/unbreakable.js",
+	"languages": [
+		"lang/english"
+	],
+	"tags": [
+		"Cheat"
+	],
+	"publishedFileId": "1442748397"
+}
